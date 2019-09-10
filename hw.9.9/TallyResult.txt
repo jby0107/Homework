@@ -1,0 +1,5 @@
+1 Reading books       /
+2 Play computer games 
+3 Sport               
+4 Programming         
+5 Watching TV         
