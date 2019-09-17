@@ -1,0 +1,11 @@
+1Daniel Chu 106 86 86 93
+2Harry Fang 100 96 90 95
+3Nico Jiang 97 93 93 94
+4Jack Jin 88 81 94 88
+5James Liu 100 87 82 90
+6Brian Shan 96 100 96 97
+7Tim Xing 86 97 95 93
+8Lisa Xu 99 100 85 95
+9Cathy Yang 94 100 88 94
+10Julian Ye 83 100 95 93
+11Shirley Zeng 98 100 90 96
