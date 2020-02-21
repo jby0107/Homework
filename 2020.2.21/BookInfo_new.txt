@@ -1,0 +1,21 @@
+#01 book author: ﻿Kevin Houston, book title: " How to Think Like a Mathematician: A Companion to Undergraduate Mathematics", number of copies: 72
+#02 book author: John Vince, book title: " Foundation Mathematics for Computer Science: A Visual Approach", number of copies: 86
+#03 book author: Harry Lewis, book title: " Essential Discrete Mathematics for Computer Science", number of copies: 76
+#04 book author: Judith L. Gersting, book title: " Mathematical Structures for Computer Science", number of copies: 71
+#05 book author: Tom Kôrner, book title: " The Pleasures of Counting", number of copies: 75
+#06 book author: Kenneth Rosen, book title: " Discrete Mathematics and Its Applications", number of copies: 82
+#07 book author: Richard Johnson, book title: " Discrete Mathematics", number of copies: 74
+#08 book author: Ronald L. Graham, book title: " Concrete Mathematics, A foundation for Computer Science", number of copies: 71
+#09 book author: Michael Huth, book title: " Logic in Computer Science (Core text book)", number of copies: 72
+#010 book author: Raymond M. Smullyan, book title: " What is the name of this Book?", number of copies: 83
+#11 book author: Thomas H.Cormen, book title: "  Introduction to Algorithms", number of copies: 72
+#12 book author: Brian Christian, book title: "  Algorithms to Live By: The Computer Science of Human Decisions", number of copies: 67
+#13 book author: John Zelle, book title: "  Python Programming: An Introduction to Computer Science", number of copies: 90
+#14 book author: Martin Erwig, book title: "  Once Upon an Algorithm: How Stories Explain Computing", number of copies: 69
+#15 book author: Maria Levitin, book title: "  Algorithmic Puzzles", number of copies: 76
+#16 book author: Jeremy Kubica, book title: " Computational Fairy Tales Jeremy Kubica", number of copies: 75
+#17 book author: J. Glenn Brookshear, book title: " Computer Science: An Overview", number of copies: 66
+#18 book author: James Gleick, book title: " The Information: A History, a Theory, a Flood", number of copies: 71
+#19 book author: Charles Petzold, book title: " Code: The Hidden Language of Computer Hardware and Software", number of copies: 80
+#20 book author: Dennis Shasha, book title: " Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists", number of copies: 83
+#21 book author: Simon Singh, book title: " The Code Book: The Secrets Behind Codebreaking", number of copies: 83
