@@ -1,0 +1,25 @@
+<html>
+<input id = 'host'></input>
+<button onclick = con()>Connect</button>
+<br/><br/>
+<input id = 'msg'></input>
+<button onclick = send()>Send</button>
+<div id = 'output'></div>
+<script>
+function con()
+{hostip = host.value
+ws = new WebSocket('ws://' + hostip + ':8764/');
+ws.onopen = function(evt){writeToScreen('Connected')};
+ws.onmessage = function(evt){writeToScreen(evt.data);};
+}
+function send()
+{message = msg.value;
+ws.send(message);
+}
+function writeToScreen(message)
+{var pre = document.createElement('p');
+pre.innerHTML = message;
+output.appendChild(pre);
+}
+</script>
+</html>
